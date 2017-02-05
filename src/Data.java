@@ -24,7 +24,7 @@ public class Data {
 		//System.out.println(list.size());
 
 		// prints the list
-		//printList();
+		printList();
 	}
 
 	// Parses through the drink name
