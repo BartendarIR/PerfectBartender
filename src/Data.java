@@ -48,13 +48,13 @@ public class Data {
 		// prints the list
 		//printList(list);
 
-		map=map(list);
+		map=mapGen(list);
 		
 		//printMap(map);
-		System.out.println(drinkName);
+		//System.out.println(drinkName);
 	}
 
-	private void printMap(Map<String, Integer> map) {
+	public  void printMap() {
 		for ( Map.Entry<String , Integer>entry : map.entrySet()) {
 			
 		    System.out.println(entry.getKey() + ": " + entry.getValue());
@@ -62,7 +62,7 @@ public class Data {
 	}
 
 	// Parses through the drink name
-	private Map<String, Integer> map(List<String> list) {
+	private Map<String, Integer> mapGen(List<String> list) {
 		map = new HashMap<String, Integer>();
 		for (String s : list) {
 			if (s.equals(""))
@@ -84,6 +84,7 @@ public class Data {
 		temp = drinkName.split(":");
 		drinkName = temp[1];
 		drinkName = drinkName.trim();
+		drinkName = drinkName.substring(0, drinkName.length()-2);
 	}
 	// Initial import of the file to make get the text into the list
 
@@ -133,5 +134,10 @@ public class Data {
 
 	public List<String> getList() {
 		return list;
+	}
+
+	public Map<String, Integer> getMap() {
+	
+		return map;
 	}
 }
