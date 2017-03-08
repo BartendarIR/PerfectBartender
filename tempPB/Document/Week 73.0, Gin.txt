@@ -1,0 +1,59 @@
+###Not Cocktail of the Week #73: Dry Martini
+
+Where to start on the Dry Martini? Of all the 'classics' in the fluid world of mixed drinks, few are as famous, enticing, but seemingly unapproachable. Few are as instantly associated with the word 'cocktail' but simultaneously seldom ordered at the bar. Few have lent their name to so many related and unrelated drinks. And most certainly, few have as many variations or personal touches on a pretty steadfast and simple concept as the Martini.
+
+***
+
+###"Martini"
+
+Wait, I *say* Martini. I mean Dry Martini. In some old books they're two different drinks. But these days? If you ask for a Martini, your bartender's not going to ask you between “classic” or “dry.” They'll most likely ask “gin or vodka?” If you ask me for a “Dry Martini,” I'll probably think you want a Dry Martini, you're just calling it a “Martini” and you're specifying it to be “dry” – a high ratio of gin to vermouth. If you wanted a “Martini” that wasn't so dry you would have said something like “Can I have a Martini, but pretty wet please,” because everybody knows that a wet Martini is just a Dry Martini but with a lot of dry vermouth, right?
+
+Perhaps I've sipped more than I can gulp. Let's start at the top. There's a lot of scattershot information out there, a lot of sources and a lot of already very-well-written literature on the background of the Martini, and I'm going to try and put together the most comprehensive but accessible introduction I can.
+
+For this reason, I'm going to break a little tradition for this week. I'm going to mash the *Background* and *Recipes* sections together and instead split the sections up into the different connected history and recipes. The evolution of the drink, from its humble beginnings as a twist on a twist to the uncertainty of each personal recipe during the contemporary cocktail revival movement, is crucial to your own preferred version as well. There's absolutely no *wrong* way to make a Dry Martini. Your favourite matches with a certain point in time through the drink history. I'll make comments about each recipe and their place in history as we go along.
+
+First, let's start with a quick look at the “Martini” before we rush into the “Dry”ness.
+
+***
+
+###Primordial Booze – The Origins 
+
+For chronology's sake, I should note a story from *Shaken Not Stirred, A Celebration Of The Martini*. I'm paraphrasing this, going on someone else's word that it's in the book, so bear with me. Apparently Johann Paul Aegius Schwartzendorf (1741-1816), a Bavarian composer, emigrated to France in 1758. He changed his name to Jean Paul Aegide Martini, perhaps because Italian composers were “in” and he wanted some of the action. According to a biographical account – of which I can't find any source – his favorite drink was gin and white wine. Supposedly Martini's popularity made other customers order his drink by his name, and then emigrating French drinkers would start using the word in America.
+
+This story seems very shaky (not stirry) and not backed up by anything. At that time, Martini wouldn't have even been drinking what we call gin, but genever, as what we know as gin today didn't exist back then. You need a neutral spirit to distill our version of gin, and the column still that made the production of neutral spirit practical wasn't developed until the 1820s, after Martini's death. At least this tale provides us one little fact: the word Martini is in the common lexicon before the drink starts appearing. It's a popular name. But then, we knew that: There's been bottles of vermouth with the word Martini on them since 1863.
+
+The main general theory is that “Martini” is a bastardization of the word “Martinez,” which if both words are being spoken in the world around the same time, isn't that much of a stretch. Martinez in a French accent is “Mar-ti-ney,” obviously close to Martini. It's not only easy to imagine a lost-in-accentuation, mispronounced word turning into a new noun when a drink starts to change over time, it's actually pretty documented. David Wondrich notes in *Imbibe!* that there was a Judge by the name of Martine kicking around in the Manhattan Club in the mid-1800s and his name might have something to do with the Martinez, the Martini, both, or the change from one to the other, but to cut a long story short it's a stretch of a theory. Let's just have a look at the Martinez first.
+
+The basic ideas of the Martinez and Martini look pretty similar. Briefly check out the [NCotW on the Martinez](http://www.reddit.com/r/cocktails/comments/1ck6v2/not_cocktail_of_the_week_15_martinez/) and you can see that by 1887 when Jerry Thomas's second edition of the *Bartender's Guide* comes out (two years after his death – presumably the finished manuscript was buried hidden under a pile of waistcoats, bow ties and tins of mustache wax) the Martinez is essentially a twist on a Manhattan. You substitute a sweet and spicy whiskey for sweet and botanical gin and voila, new drink. The recipe concept of the time is essentially: a reasonably sweet “Old Tom” gin, sweet vermouth, a modifier if desired (maraschino liqueur most often) and a dash of bitters.
+
+Then just one year later in 1888, Harry Johnson's *Bartender's Manual* is published and includes a recipe for a “Martini:”
+
+*Bartender's Manual*, Harry Johnson, 1888
+>
+>**Martini Cocktail**  
+>Fill up the glass with ice;  
+>2 or 3 dashes of gum syrup (be careful in not using too much);  
+>2 or 3 dashes of bitters (Boker's genuine only);  
+>1 dash of curaçao or absinthe, if required;  
+> ½ wine-glass of old Tom gin;  
+> ½ wine-glass of vermouth.  
+>Stir up well with a spoon; strain it into a fancy cocktail glass; put in a cherry or a medium-sized olive, if required; and squeeze a piece of lemon peel on top, and serve (see illustration, plate No. 13).  
+> *– Harry Johnson, Bartender's Manual*
+
+Also in Henry J. Wehmann's *Bartenders Guide* of 1891, his “Martini” recipe is identical but for the omission of the optional absinthe.
+
+In the *Old Waldorf Astoria Bar Book* the author describes a “Claret” wine glass as holding between three and a half to four ounces, so half a wine-glass would be just under two ounces. With the extra water from the ice dilution, that is a fookin' massive cocktail. However in *Imbibe* Wondrich states, though I should mention without sources, that the “wine glass” was a standard measurement of two ounces. This would make more sense. I've just had a quick browse through the Old Waldorf, which as a typing-up of a bar notebook contains recipes from across many years, and no recipes have both “wine glass” and “jigger” in them, so like Bruce and Batman are never in the same room, I'm gonna run with Wondrich: ½ a wine-glass is 1oz. The jigger wasn't patented until 1893, way after Johnson's book, which explains why Johnson isn't using it.
+
+Anyway. Wait a minute, it's a damn Martinez! Now wait another minute, maybe it's a just a variation on the Martinez, maybe a small tiny change makes it a different drink. Let's have a real brief look at some Martinez recipes from around that time.
+
+Jerry Thomas's 1887 edition of the *Bartender's Guide* says that the Martinez is with two parts vermouth to one part gin, and O.H. Byron's *Modern Bartender's Guide* from 1884 also has a [Manhattan Cocktail No. 1 recipe with two vermouth to one whisky, and the Martinez is: “Same as Manhattan, only you substitute gin for whisky.”](http://1.bp.blogspot.com/-_n-ydCAKXIA/T1pBM4f9MMI/AAAAAAAAAg0/bhdeCyrjCQ4/s1600/O.H%2BByron.jpg) So perhaps the changing of ratios merits the change in name? Wait, in Byron's Manhattan No. 1 recipe he uses *French* (dry) vermouth. His own “Martinez No. 1” is, with a few fancy additions, actually a honest-to-god gin-and-dry-vermouth Dry Martini with bizarre ratios. Great, now we have two vastly different drinks masquerading under the name “Martinez.” Byron also has a Manhattan Cocktail No. 2 recipe with *Italian* (sweet) vermouth as per what we'd expect, but it's equal parts whisky/vermouth – more variation and no standard recipe.
+
+Additionally, as we'll see later there's a few Dry Martini recipes in the *Old Waldorf Astoria Bar Book* that have different ratios between versions and they don't get a whole new moniker. After so much variation in the Martinez already, being finickity enough to give the drink a new-but-really-close name for having different ratios seems like a bit of a stretch, so...
+
+Wait a minute, it's a damn Martinez! Even weirder, [that illustration in Johnson's book isn't captioned as a Martinez but a “Martine.”](http://i.imgur.com/G0A0epU.jpg) Johnson captioned the drawing like the Martinez and the Martini got into the machine from [The Fly](http://www.imdb.com/title/tt0091064/). When did the Martinez turn into the Martini? Was everybody too drunk to pronounce it?
+
+I can't find any sources prior to Johnson documenting a *recipe* for a Martini. However, back in *Imbibe!* again Wondrich has written that a copy of the *Brooklyn Daily Eagle* in 1887 writes of the “bewildering depths of the 'Martini cocktail'” so the whole misspelling is pre-Johnson. Really interesting is that Wondrich also writes of an article in the *Washington Post* from 1891, that states that the Martini “has” to be made with “the Martini vermuth [sic].” Martini only made red sweet vermouth until 1900. Maybe the whole confusion over the spelling and pronunciation between Martinez and Martini is further complicated by the brand of vermouth, especially if the company's going to jump on the new name for advertising purposes.
+
+***
+
+*[continued below]*
